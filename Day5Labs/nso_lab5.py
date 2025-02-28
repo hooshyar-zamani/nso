@@ -1,7 +1,7 @@
 '''
 Script for NSO Training Day 2 Lab 5
 
-Your goal for this lab is to learn how to retrieve operational data from NSO.
+Your goal for this lab is to learn how to retr
 
 Step 1:
     Print operational data from "show cdp neighbor detail" and "dir" using the
