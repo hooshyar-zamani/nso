@@ -3,7 +3,7 @@ import socket
 """
 This File provides servel functions that give example sof executing common tasks using the NSO Maagic API
 These a written for use on a local NSO instance and are intended to be used for demonstration purposes.
-"""
+""
 
 def create_session():
     """
